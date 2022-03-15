@@ -1,7 +1,7 @@
 
 CRUD Desenvolvido em PHP com Bootstrap.
 
-Objetivo: Criar uma extrutura de cadastro para demmonstrar conhecimentos e habilidades na liguagem PHP e mbiente de desenvolvimento Web.
+Objetivo: Criar uma estrutura de cadastro para demmonstrar conhecimentos e habilidades na liguagem PHP e mbiente de desenvolvimento Web.
 
 Documentação da estrutura de pastas e arquivos do projeto CRUD.
 
